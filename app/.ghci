@@ -1,0 +1,5 @@
+:set -ferror-spans -fdiagnostics-color=always
+:set -ferror-spans -fdiagnostics-color=always
+:set -Wunused-imports -Wunused-local-binds -Wunused-top-binds
+:set -i../src
+:load Main

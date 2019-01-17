@@ -20,3 +20,13 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+.stack-work/
+.emacs*
+*.*~
+#*#
+#*.*#
+*.bak
+.stack-work*
+_cache
+backup/
+*~
